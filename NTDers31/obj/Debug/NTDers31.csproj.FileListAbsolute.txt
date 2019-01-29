@@ -1,0 +1,7 @@
+C:\Users\Section2\source\repos\NTDers3\NTDers31\bin\Debug\NTDers31.exe.config
+C:\Users\Section2\source\repos\NTDers3\NTDers31\bin\Debug\NTDers31.exe
+C:\Users\Section2\source\repos\NTDers3\NTDers31\bin\Debug\NTDers31.pdb
+C:\Users\Section2\source\repos\NTDers3\NTDers31\obj\Debug\NTDers31.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NTDers3\NTDers31\obj\Debug\NTDers31.exe
+C:\Users\Section2\source\repos\NTDers3\NTDers31\obj\Debug\NTDers31.pdb
+C:\Users\Section2\source\repos\NTDers3\NTDers31\obj\Debug\NTDers31.csprojResolveAssemblyReference.cache
